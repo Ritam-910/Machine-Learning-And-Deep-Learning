@@ -1,4 +1,4 @@
-# 🎨✨ Machine-Learning- (by Ritam-910)
+# 🎨✨ Machine Learning And Deep Learning (by Ritam-910)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Ritam-910/Machine-Learning-?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/Ritam-910/Machine-Learning-?style=for-the-badge)
