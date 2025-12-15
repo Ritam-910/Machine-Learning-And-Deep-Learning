@@ -64,12 +64,6 @@ plot_learning_curve(history)
 plot_confusion_matrix(y_true, y_pred, classes=class_names)
 ```
 
-Notebooks (selected)
-- 01-exploratory-data-analysis.ipynb — colourful EDA  
-- 02-classification-basics.ipynb — logistic & tree demos  
-- 03-deep-learning-intro.ipynb — small CNN example  
-- 04-clustering.ipynb — k-means visualisations
-
 Contributing
 Contributions welcome! Fork → branch → PR. Keep notebooks readable, remove large outputs, and include a short description of changes.
 
